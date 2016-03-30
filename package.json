@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://juanelegomez@github.com/juanelegomez/enruta-modules.git"
+    "url": "git+https://juanelegomez@github.com/juanelegomez/enruta-helpers.git"
   },
   "author": "Juan Luis Gómez <juan@popcornmusica.com> (http://enruta.me)",
   "license": "ISC",
