@@ -1,0 +1,22 @@
+{
+  "name": "enruta-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://juanelegomez@github.com/juanelegomez/enruta-modules.git"
+  },
+  "author": "Juan Luis Gómez <juan@popcornmusica.com> (http://enruta.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanelegomez/enruta-modules/issues"
+  },
+  "homepage": "https://github.com/juanelegomez/enruta-modules#readme",
+  "dependencies": {
+    "turf": "^2.0.2"
+  }
+}
